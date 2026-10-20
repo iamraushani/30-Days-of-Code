@@ -7,11 +7,11 @@ Note: The instructions are Java-based, but we support submissions in many popula
 
 Input Format
 
-A single line of text denoting nputString (the variable whose contents must be printed).
+A single line of text denoting inputString (the variable whose contents must be printed).
 
 Output Format
 
-Print Hello, World. on the first line, and the contents of nputString on the second line.
+Print Hello, World. on the first line, and the contents of inputString on the second line.
 
 Sample Input
 
